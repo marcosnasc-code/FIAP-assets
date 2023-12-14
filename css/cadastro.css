@@ -1,0 +1,16 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.body{
+    background-image: url(../images/cadastro.jpg);
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.my-title-cadastro{
+    font-weight: 800;
+    margin: 3rem auto;
+    font-size: 2.5rem;
+}
